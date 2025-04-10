@@ -26,3 +26,17 @@ Approach
 5. Building a mobile application as well, for easiness, and will use quantization required for edge device model.
 
 6. Deploy the model to Google Cloud, so our application will take input from here and will give us the prediction.
+
+
+# Getting the data.
+
+1. Getting data from third party who sells images data.
+2. Create a team, and work manually on ground. (this is costly and time taking)
+3. Web scrapping (getting data from google, but use tool to annotate it)
+
+but I believe getting data from third party is reliable, wasting time in data collection and processing is not good.
+
+for this, I am taking data from Kaggle.
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+This dataset has data about Potato, Tomato and Pepper. But Potato is our target this time. 
