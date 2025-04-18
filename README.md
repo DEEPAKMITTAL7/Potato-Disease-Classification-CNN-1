@@ -41,3 +41,6 @@ https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 This dataset has data about Potato, Tomato and Pepper. But Potato is our target this time. 
 
+# Saving the model.
+
+1,2 and 3 are the same models built while checking the os.listdir() use.
